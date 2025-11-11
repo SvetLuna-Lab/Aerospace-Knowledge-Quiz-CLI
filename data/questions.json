@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "category": "rockets",
+    "question": "What is specific impulse (Isp) in rocket engines?",
+    "options": [
+      "The total thrust produced during the entire flight",
+      "Thrust per unit weight flow of propellant, a measure of engine efficiency",
+      "The maximum pressure in the combustion chamber",
+      "The ratio between oxidizer and fuel mass"
+    ],
+    "correct_index": 1,
+    "explanation": "Specific impulse (Isp) measures how effectively a rocket engine uses propellant: thrust per unit weight flow of propellant. Higher Isp means more efficient engines."
+  },
+  {
+    "id": 2,
+    "category": "rockets",
+    "question": "What is the thrust-to-weight ratio (T/W) of a launch vehicle?",
+    "options": [
+      "The ratio of propellant mass to dry mass",
+      "The ratio of engine chamber pressure to ambient pressure",
+      "The ratio of engine thrust to vehicle weight at liftoff",
+      "The ratio of nozzle exit area to throat area"
+    ],
+    "correct_index": 2,
+    "explanation": "Thrust-to-weight (T/W) is the ratio of engine thrust to vehicle weight. T/W > 1 is required to lift off; higher values give stronger initial acceleration."
+  },
+  {
+    "id": 3,
+    "category": "propulsion",
+    "question": "Why are bell-shaped nozzles used in many liquid rocket engines?",
+    "options": [
+      "They are cheaper to manufacture than conical nozzles",
+      "They provide better expansion efficiency and higher performance for a given length",
+      "They cool the exhaust gases more effectively",
+      "They reduce combustion instability"
+    ],
+    "correct_index": 1,
+    "explanation": "Bell (contour) nozzles improve expansion efficiency and performance for a given nozzle length, reducing losses compared to simple conical nozzles."
+  },
+  {
+    "id": 4,
+    "category": "propulsion",
+    "question": "What is mixture ratio (often O/F) in liquid rocket engines?",
+    "options": [
+      "The ratio of engine mass to payload mass",
+      "The ratio of oxidizer mass flow to fuel mass flow",
+      "The ratio of nozzle exit pressure to chamber pressure",
+      "The ratio of thrust to specific impulse"
+    ],
+    "correct_index": 1,
+    "explanation": "Mixture ratio (oxidizer-to-fuel, O/F) is the ratio of oxidizer mass flow to fuel mass flow. It strongly affects performance, stability and cooling."
+  },
+  {
+    "id": 5,
+    "category": "orbits",
+    "question": "What does LEO stand for in orbital mechanics?",
+    "options": [
+      "Low Earth Orbit",
+      "Lunar Entry Orbit",
+      "Launch Escape Orbit",
+      "Long Elliptical Orbit"
+    ],
+    "correct_index": 0,
+    "explanation": "LEO stands for Low Earth Orbit: typically altitudes of a few hundred kilometers, used for many satellites and crewed missions."
+  }
+]
